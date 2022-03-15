@@ -1,4 +1,4 @@
-p="Hello world"
+p = input()
 c=''
 for i in range(len(p)):
     if p[i].isalpha():
