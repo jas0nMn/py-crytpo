@@ -1,4 +1,3 @@
-# py-crytpo
 p="Hello world"
 c=''
 for i in range(len(p)):
